@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @csotetc
 - 👀 I’m interested in JAVA！
 - 🌱 I’m currently learning .NET TT
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - email:cnostetc271@163.com
 
 <!---
